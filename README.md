@@ -7,7 +7,8 @@ The end goal is to generate a pie chart to get an idea of the sentiments' spread
 I improved the code to parse more articles for the given keyword of interest and run deeper analysis.
 
 I will also create a Google Colab file for the ones who would like to run it quickly.
-https://colab.research.google.com/drive/13xEXOG7o9cTZohNQxZI-zB9ZWEtK_-SF?usp=sharing
+
+https://colab.research.google.com/drive/1-g6hK7gwOkMEAdoUbCuefYiu4tatiZWC?usp=sharing
 
 Packages required:
 
